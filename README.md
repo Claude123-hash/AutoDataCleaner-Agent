@@ -43,3 +43,4 @@ python app.py
 *   `agent/cleaner.py`: 核心 Agent 提示词工程所在地，负责分析数据特征并向 LLM 请求代码。
 *   `agent/executor.py`: 本地代码安全沙箱，防止 LLM 执行危险代码。
 *   `test_dirty_data.csv`: 预设的测试数据集（包含负数年龄、错误日期格式、缺失值等，用于演示效果）。
+*   `test_dirty_data_cleaned.csv`: 清洗后的干净数据结果示例（用于效果对比）
