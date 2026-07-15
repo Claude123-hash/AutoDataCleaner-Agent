@@ -1,0 +1,8 @@
+id,name,age,email,join_date,salary
+1,Alice,28,alice@test.com,2023-01-01,8000.0
+2,Bob,33,bob@test.com,2023-01-01,9000.0
+3,Charlie,35,unknown@test.com,2023-01-01,10000.0
+4,David,33,david@test.com,2023-01-01,12000.0
+5,Eve,29,eve@test.com,2023-01-01,8500.0
+6,Frank,40,frank@test,2023-01-01,8750.0
+7,,33,g@test.com,2023-01-01,7500.0

@@ -1,0 +1,8 @@
+id,name,age,email,join_date,salary
+1, Alice , 28 , alice@test.com, 2023-01-01, 8000
+2,Bob,NaN,bob@test.com,2023-02-15,9000
+3, Charlie,35,,2023-03-01,10000
+4,David, -5 ,david@test.com,2023-04-10,12000
+5,Eve,29,eve@test.com,2023-13-45,8500
+6,Frank,40,frank@test,2023-06-01,NaN
+7,,33,g@test.com,,7500
